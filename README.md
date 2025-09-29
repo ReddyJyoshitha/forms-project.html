@@ -23,7 +23,4 @@ Features
 - Checkboxes for selecting known programming languages (C, Python, Java, C++, HTML).
 - Dropdown menu for selecting internship duration (3 months, 6 months, 9 months, 1 year).
 - File upload field for resume submission.
-- Submit button linking to a second webpage (to be implemented).
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+- Submit button linking to a second webpage 
